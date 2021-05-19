@@ -14,9 +14,16 @@
     "10 8 * * * https://raw.githubusercontent.com/age174/-/main/dgh.js, tag=大公会, img-url=https://ae01.alicdn.com/kf/U48ac7674ccc7422dac2bb266d8c9a17b2.jpg, enabled=true",
     "10 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10010/10010.js tag=中国联通签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/10010.png, enabled=true",
     "1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/sfexpress/sfexpress.js, tag=顺丰速运, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/sfexpress.png, enabled=true",
+    "5,35 8-21 * * * https://raw.githubusercontent.com/iepngs/Script/master/jrtt/index.js,tag=今日头条极速版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jrtt.png, enabled=true",
     "",
     "",
     "",
-    
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
 ]
 }
